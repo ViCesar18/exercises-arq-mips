@@ -1,2 +1,2 @@
 # arq_mips
-Exercícios de MIPS da disciplina Arquitetura e Organização de Computadores.
+Exercícios de MIPS da disciplina Arquitetura e Organização de Computadores da UEL.
